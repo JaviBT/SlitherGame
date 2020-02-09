@@ -10,7 +10,7 @@ The script setup.py can be used to generate a build.
 python3 setup.py build
 ```
 ## What did I learn?
--Use Pygame to create a simple GUI.
--Python syntax.
+- Use Pygame to create a simple GUI.
+- Python syntax.
 
 
